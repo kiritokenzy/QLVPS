@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="LowEndViet.com_VPS_Tool\AutoLoginPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LowEndViet.com_VPS_Tool\ForcePasswordChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LowEndViet.com_VPS_Tool\form_LowEndVietFastVPSConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LowEndViet.com_VPS_Tool\StatusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

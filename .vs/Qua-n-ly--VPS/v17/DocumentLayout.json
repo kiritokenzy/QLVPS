@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quocd\\Downloads\\QLVPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|c:\\users\\quocd\\downloads\\qlvps\\lowendviet.com_vps_tool\\form_lowendvietfastvpsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|solutionrelative:lowendviet.com_vps_tool\\form_lowendvietfastvpsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|c:\\users\\quocd\\downloads\\qlvps\\lowendviet.com_vps_tool\\form_lowendvietfastvpsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|solutionrelative:lowendviet.com_vps_tool\\form_lowendvietfastvpsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|c:\\users\\quocd\\downloads\\qlvps\\lowendviet.com_vps_tool.properties.resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|solutionrelative:lowendviet.com_vps_tool.properties.resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|c:\\users\\quocd\\downloads\\qlvps\\lowendviet.com_vps_tool\\statusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|solutionrelative:lowendviet.com_vps_tool\\statusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|c:\\users\\quocd\\downloads\\qlvps\\lowendviet.com_vps_tool\\forcepasswordchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|solutionrelative:lowendviet.com_vps_tool\\forcepasswordchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|c:\\users\\quocd\\downloads\\qlvps\\lowendviet.com_vps_tool\\autologinpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|solutionrelative:lowendviet.com_vps_tool\\autologinpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|c:\\users\\quocd\\downloads\\qlvps\\lowendviet.com_vps_tool\\statusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|solutionrelative:lowendviet.com_vps_tool\\statusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|c:\\users\\quocd\\downloads\\qlvps\\lowendviet.com_vps_tool\\levcheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|solutionrelative:lowendviet.com_vps_tool\\levcheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|c:\\users\\quocd\\downloads\\qlvps\\lowendviet.com_vps_tool\\forcepasswordchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|solutionrelative:lowendviet.com_vps_tool\\forcepasswordchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|c:\\users\\quocd\\downloads\\qlvps\\lowendviet.com_vps_tool\\autologinpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|solutionrelative:lowendviet.com_vps_tool\\autologinpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|c:\\users\\quocd\\downloads\\qlvps\\lowendviet.com_vps_tool.form_lowendvietfastvpsconfig.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1B9DEEEA-B50E-4B29-9381-D964B7EBCD04}|Qua-n-ly--VPS.csproj|solutionrelative:lowendviet.com_vps_tool.form_lowendvietfastvpsconfig.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "form_LowEndVietFastVPSConfig.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\form_LowEndVietFastVPSConfig.cs",
+              "RelativeDocumentMoniker": "LowEndViet.com_VPS_Tool\\form_LowEndVietFastVPSConfig.cs",
+              "ToolTip": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\form_LowEndVietFastVPSConfig.cs [Design]",
+              "RelativeToolTip": "LowEndViet.com_VPS_Tool\\form_LowEndVietFastVPSConfig.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:19:40.731Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatusForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\StatusForm.cs",
+              "RelativeDocumentMoniker": "LowEndViet.com_VPS_Tool\\StatusForm.cs",
+              "ToolTip": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\StatusForm.cs [Design]",
+              "RelativeToolTip": "LowEndViet.com_VPS_Tool\\StatusForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:18:59.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForcePasswordChange.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\ForcePasswordChange.cs",
+              "RelativeDocumentMoniker": "LowEndViet.com_VPS_Tool\\ForcePasswordChange.cs",
+              "ToolTip": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\ForcePasswordChange.cs [Design]",
+              "RelativeToolTip": "LowEndViet.com_VPS_Tool\\ForcePasswordChange.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:18:54.98Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatusForm.cs",
+              "DocumentMoniker": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\StatusForm.cs",
+              "RelativeDocumentMoniker": "LowEndViet.com_VPS_Tool\\StatusForm.cs",
+              "ToolTip": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\StatusForm.cs",
+              "RelativeToolTip": "LowEndViet.com_VPS_Tool\\StatusForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:18:46.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "form_LowEndVietFastVPSConfig.cs",
+              "DocumentMoniker": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\form_LowEndVietFastVPSConfig.cs",
+              "RelativeDocumentMoniker": "LowEndViet.com_VPS_Tool\\form_LowEndVietFastVPSConfig.cs",
+              "ToolTip": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\form_LowEndVietFastVPSConfig.cs",
+              "RelativeToolTip": "LowEndViet.com_VPS_Tool\\form_LowEndVietFastVPSConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8DAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:18:38.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LowEndViet.com_VPS_Tool.Properties.Resources.resx",
+              "DocumentMoniker": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool.Properties.Resources.resx",
+              "RelativeDocumentMoniker": "LowEndViet.com_VPS_Tool.Properties.Resources.resx",
+              "ToolTip": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool.Properties.Resources.resx",
+              "RelativeToolTip": "LowEndViet.com_VPS_Tool.Properties.Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-21T05:18:09.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LevCheckbox.cs",
+              "DocumentMoniker": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\LevCheckbox.cs",
+              "RelativeDocumentMoniker": "LowEndViet.com_VPS_Tool\\LevCheckbox.cs",
+              "ToolTip": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\LevCheckbox.cs",
+              "RelativeToolTip": "LowEndViet.com_VPS_Tool\\LevCheckbox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:18:42.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoLoginPasswordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\AutoLoginPasswordForm.cs",
+              "RelativeDocumentMoniker": "LowEndViet.com_VPS_Tool\\AutoLoginPasswordForm.cs",
+              "ToolTip": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\AutoLoginPasswordForm.cs [Design]",
+              "RelativeToolTip": "LowEndViet.com_VPS_Tool\\AutoLoginPasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:18:32.144Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ForcePasswordChange.cs",
+              "DocumentMoniker": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\ForcePasswordChange.cs",
+              "RelativeDocumentMoniker": "LowEndViet.com_VPS_Tool\\ForcePasswordChange.cs",
+              "ToolTip": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\ForcePasswordChange.cs",
+              "RelativeToolTip": "LowEndViet.com_VPS_Tool\\ForcePasswordChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:18:34.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoLoginPasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\AutoLoginPasswordForm.cs",
+              "RelativeDocumentMoniker": "LowEndViet.com_VPS_Tool\\AutoLoginPasswordForm.cs",
+              "ToolTip": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool\\AutoLoginPasswordForm.cs",
+              "RelativeToolTip": "LowEndViet.com_VPS_Tool\\AutoLoginPasswordForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:18:22.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LowEndViet.com_VPS_Tool.form_LowEndVietFastVPSConfig.resx",
+              "DocumentMoniker": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool.form_LowEndVietFastVPSConfig.resx",
+              "RelativeDocumentMoniker": "LowEndViet.com_VPS_Tool.form_LowEndVietFastVPSConfig.resx",
+              "ToolTip": "C:\\Users\\quocd\\Downloads\\QLVPS\\LowEndViet.com_VPS_Tool.form_LowEndVietFastVPSConfig.resx",
+              "RelativeToolTip": "LowEndViet.com_VPS_Tool.form_LowEndVietFastVPSConfig.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-21T05:18:07.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
